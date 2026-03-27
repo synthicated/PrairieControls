@@ -5,7 +5,7 @@ A mod for Stardew Valley that allows you to shoot with the cursor in the arcade 
 ## Installation
  1. [Download the required version of the mod](https://github.com/synthicated/PrairieControls/releases)
  2. Find the game's root directory, where `Stardew Valley.exe` or `StardewValley.exe` is located. You can find the game's root directory [here](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Find_your_game_folder)
- 3. Unzip the mod into the `Mods` folde
+ 3. Unzip the mod into the `Mods` folder
  4. Play and have fun - it's easy!
 
 ## Technical moments
