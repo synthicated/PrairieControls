@@ -1,0 +1,5 @@
+﻿{
+  // Generic Mod Config Menu UI
+  "config.prairie-controls.using_cursor.name": "Enabled cursor using",
+  "config.prairie-controls.using_cursor.description": "Allows you to shoot using the cursor"
+}

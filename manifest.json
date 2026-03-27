@@ -1,0 +1,10 @@
+﻿{
+  "Name": "PrairieControls",
+  "Author": "Synthicated",
+  "Version": "1.0.0",
+  "Description": "Allows shooting with mouse cursor in \"Journey of the Prairie King\" arcade",
+  "UniqueID": "Synthicated.PrairieControls",
+  "EntryDll": "PrairieControls.dll",
+  "MinimumApiVersion": "4.4.0",
+  "UpdateKeys": []
+}

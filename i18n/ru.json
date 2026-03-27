@@ -1,0 +1,5 @@
+﻿{
+  // Generic Mod Config Menu UI
+  "config.prairie-controls.using_cursor.name": "Включить использование курсора",
+  "config.prairie-controls.using_cursor.description": "Включает режим стрельбы курсором"
+}
